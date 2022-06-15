@@ -1,4 +1,5 @@
-https://img.shields.io/github/workflow/status/ryunabi/ryunabi/blank.yml
+<a href="https://github.com/badges/shields/graphs/contributors" alt="Contributors">
+        <img src="https://img.shields.io/github/contributors/badges/shields" /></a>
 
 - 👋 Hi, I’m @ryunabi
 - 👀 I’m interested in AI,ML
